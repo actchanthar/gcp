@@ -9,3 +9,6 @@ COPY config.json /etc/v2ray/config.json
 # Run V2Ray with the config file
 CMD ["v2ray", "run", "-config", "/etc/v2ray/config.json"]
 
+
+# join telegram https://t.me/premium_channel_404  for new updates 
+# my telegram username is @nkka404
